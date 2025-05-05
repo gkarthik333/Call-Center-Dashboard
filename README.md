@@ -71,12 +71,12 @@ The data used in this dashboard is a simulated call log dataset containing the f
 
  #### Bar Chart
 * **Count of Call IDs by Ratings:**
-    Visualize how many users gave each star rating.
-    Most customers gave 3 or 4 stars.
+    * Visualize how many users gave each star rating.
+    * Most customers gave 3 or 4 stars.
 
 * **Satisfaction Rating by Topics:**
-    Top-rated: Admin Support (3.43)
-    Lowest-rated: Contract Related (3.38)
+    * Top-rated: Admin Support (3.43)
+    * Lowest-rated: Contract Related (3.38)
 
 
 ![Client Satisfaction](https://github.com/user-attachments/assets/516a1de8-b001-46b9-9e52-cbabad51e0f8)
