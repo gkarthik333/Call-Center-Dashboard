@@ -16,6 +16,9 @@ The data used in this dashboard is a simulated call log dataset containing the f
 - `AvgTalkDuration`
 - `satisfaction rating`
 #### <h1 align="center"><a href="https://github.com/gkarthik333/Call-Center-Dashboard/blob/main/Call-Center-Dataset.csv">Download </a></h1> 
+<p align="center">        
+  < href="https://github.com/gkarthik333/Call-Center-Dashboard/blob/main/Call-Center-Dataset.csv" font=Fira+Code&size=24&duration=4000&pause=1000&color=3498db&center=true&width=600&lines= Dataset_file" alt="Typing Animation" />
+</p>
        
 ![Home](https://github.com/user-attachments/assets/7aae481b-41d2-4be1-86b1-16648c2f3076)
 
