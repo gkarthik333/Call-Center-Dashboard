@@ -47,7 +47,7 @@ Insight: Strong resolution performance.
 ![Call Analysis](https://github.com/user-attachments/assets/4a674125-5fd5-4acc-8277-2a1269d6a3ca)
 
 
-🌟 Clients Satisfaction
+# 🌟 Clients Satisfaction
 
 ## 🎯 KPIs
 
@@ -63,29 +63,49 @@ Insight: Strong resolution performance.
 
 - **Bar Chart**
 – Count of Call IDs by Ratings
-Distribution across:
-1 Star: 417
-2 Star: 396
-3 Star: 1218
-4 Star: 1180
-5 Star: 843
+Visualize how many users gave each star rating.
+Most customers gave 3 or 4 stars.
 
 – Satisfaction Rating by Topics
 Top-rated: Admin Support (3.43)
 Lowest-rated: Contract Related (3.38)
 
+
 ![Client Satisfaction](https://github.com/user-attachments/assets/516a1de8-b001-46b9-9e52-cbabad51e0f8)
 
+# Agents Performance 
 
-🧭 Interactivity
-Filters: Month Name, Day Name, Topic
-Bookmark Toggle: Between “Days” and “Topics” views
-Navigation Icons: Home, Call Analysis, Client Satisfaction, Agent Performance.
+## 🎯 KPIs
+
+- **Agent Name & Rating**: Personal rating with star visual for easy perception.
+- **Total Calls**: Total workload handled.
+- **Avg. Speed of Answer**: Measures responsiveness.
+- **Avg. Handle Time**: Indicates efficiency in resolving calls.
+- **Client Satisfaction Rate**: Quality perception.
+- **Last Call Received**: Recent activity tracking.
 
 
+## 📈 Visuals
+- **Donut Chart**
+-Answered Rate :
+ Visualizes the percentage of calls answered vs not answered.
+ Highlights agent responsiveness.
+-Resolved Rate :
+ Shows the split between resolved and unresolved calls. 
+ Measures agent issue resolution effectiveness.
 
-## Dashboard
-<a href="https://github.com/gkarthik333/Human_Resources_Dashboard/blob/main/HR%20Dashboard.twbx">Click Here</a>
+
+- **Line & Area Chart**
+– Total Calls by Date :
+ Displays daily call volume trends for the selected agent.
+ Helps identify workload peaks and performance patterns..
+
+![Agents Performance](https://github.com/user-attachments/assets/5f49eb82-e555-4d7b-a8b5-6c4fdecae396)
+
+## 🧭 Interactivity
+- **Filters:** Month Name, Day Name, Topic
+- **Bookmark Toggle:** Between “Days” & “Topics” views and to switch views and analyze different agents individually.
+- **Navigation Icons:** Home, Call Analysis, Client Satisfaction, Agent Performance.
 
 
 ## 🛠 Tools & Technologies Used
@@ -93,7 +113,6 @@ Navigation Icons: Home, Call Analysis, Client Satisfaction, Agent Performance.
 - **Power BI** – for dashboard design and interactivity
 - **Excel** – initial data cleaning and preparation
 - **DAX** – calculated measures (e.g., resolution rate, avg. time)
-- **SQL (Optional)** – used for data extraction (if applicable)
 
 ## 📈 Skills Demonstrated
 
@@ -107,6 +126,6 @@ Navigation Icons: Home, Call Analysis, Client Satisfaction, Agent Performance.
 
 **Karthik G K**  
 _Data Analyst 
-📧 [Email Me](mailto:your_email@example.com)  
+📧 [Email Me](#)  
 🔗 [LinkedIn](#) 
 
