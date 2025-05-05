@@ -54,20 +54,20 @@ The data used in this dashboard is a simulated call log dataset containing the f
 - **Overall Rating**: ⭐⭐⭐⭐☆ (3.4 / 5) – Neutral
 
 ## 📈 Visuals
-- **Donut Chart**
--Client Satisfaction Rate : Quick visual summary of satisfaction %.
+#### Donut Chart
+* **Client Satisfaction Rate : Quick visual summary of satisfaction %.**
 
-- **Card & Star Indicator**
-– Overall Rating : Shows average rating with 5-star visual and label.
+#### Card & Star Indicator
+* **Overall Rating : Shows average rating with 5-star visual and label.**
 
-- **Bar Chart**
-– Count of Call IDs by Ratings
-Visualize how many users gave each star rating.
-Most customers gave 3 or 4 stars.
+#### Bar Chart
+* **Count of Call IDs by Ratings:**
+*** **Visualize how many users gave each star rating.**
+*** **Most customers gave 3 or 4 stars.**
 
-– Satisfaction Rating by Topics
-Top-rated: Admin Support (3.43)
-Lowest-rated: Contract Related (3.38)
+* **Satisfaction Rating by Topics:**
+*** **Top-rated: Admin Support (3.43)**
+*** **Lowest-rated: Contract Related (3.38)**
 
 
 ![Client Satisfaction](https://github.com/user-attachments/assets/516a1de8-b001-46b9-9e52-cbabad51e0f8)
