@@ -40,8 +40,8 @@ The data used in this dashboard is a simulated call log dataset containing the f
 - Calls by Date : Shows daily call trends
 
 #### Bar Chart
--**Calls by Day Name : Weekly breakdown of answered vs unanswered calls.**
--**Calls by Topic :  Topic wise breakdown of answered vs unanswered calls.**
+* **Calls by Day Name : Weekly breakdown of answered vs unanswered calls.**
+* **Calls by Topic :  Topic wise breakdown of answered vs unanswered calls.**
 
 ![Call Analysis](https://github.com/user-attachments/assets/4a674125-5fd5-4acc-8277-2a1269d6a3ca)
 
