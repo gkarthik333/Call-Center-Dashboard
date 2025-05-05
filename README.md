@@ -1,7 +1,7 @@
 # Call-Center-Dashboard 
 A call center dashboard is a visual tool that provides a real-time overview of key performance indicators (KPIs) and operational metrics related to a call or contact center. It's designed to help managers and agents monitor performance, identify trends, and make informed decisions to improve efficiency and customer satisfaction.
 
-## 📂 Data Source
+## 📂 Data Source :  **<a href="https://github.com/gkarthik333/Call-Center-Dashboard/blob/main/Call-Center-Dataset.csv">Download </a>**
 
 The data used in this dashboard is a simulated call log dataset containing the following fields:
 
@@ -15,8 +15,6 @@ The data used in this dashboard is a simulated call log dataset containing the f
 - `Speed of answer in seconds`
 - `AvgTalkDuration`
 - `satisfaction rating`
-#### **<a href="https://github.com/gkarthik333/Call-Center-Dashboard/blob/main/Call-Center-Dataset.csv">Download </a>**
-
 
        
 ![Home](https://github.com/user-attachments/assets/7aae481b-41d2-4be1-86b1-16648c2f3076)
