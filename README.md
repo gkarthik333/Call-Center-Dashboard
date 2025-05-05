@@ -33,14 +33,13 @@ The data used in this dashboard is a simulated call log dataset containing the f
 - **Last Call Received**: 31 March 2021, 17:36:58
 
 ## 📈 Visuals
-- **Sankey Chart**
-Visualizes call flow from total calls to resolved calls (total → answered → resolved).
-Insight: Strong resolution performance.
+#### Sankey Chart
+ * **Visualizes call flow from total calls to resolved calls (total → answered → resolved)**.
 
-- **Line/Area Chart**
+#### Line/Area Chart
 - Calls by Date : Shows daily call trends
 
-- **Bar Chart**
+#### Bar Chart
 -Calls by Day Name : Weekly breakdown of answered vs unanswered calls.
 -Calls by Topic :  Topic wise breakdown of answered vs unanswered calls.
 
