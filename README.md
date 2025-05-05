@@ -34,14 +34,16 @@ The data used in this dashboard is a simulated call log dataset containing the f
 
 ## 📈 Visuals
 #### Sankey Chart
- * **Visualizes call flow from total calls to resolved calls (total → answered → resolved)**.
+   Visualizes call flow from total calls to resolved calls (total → answered → resolved).
 
 #### Line/Area Chart
-- Calls by Date : Shows daily call trends
+   Calls by Date : Shows daily call trends
 
 #### Bar Chart
-* **Calls by Day Name : Weekly breakdown of answered vs unanswered calls.**
-* **Calls by Topic :  Topic wise breakdown of answered vs unanswered calls.**
+* **Calls by Day Name :**
+    Weekly breakdown of answered vs unanswered calls.
+* **Calls by Topic :**
+    Topic wise breakdown of answered vs unanswered calls.
 
 ![Call Analysis](https://github.com/user-attachments/assets/4a674125-5fd5-4acc-8277-2a1269d6a3ca)
 
@@ -55,19 +57,20 @@ The data used in this dashboard is a simulated call log dataset containing the f
 
 ## 📈 Visuals
 #### Donut Chart
-* **Client Satisfaction Rate : Quick visual summary of satisfaction %.**
+* **Client Satisfaction Rate :**
+    Quick visual summary of satisfaction %.
 
 #### Card & Star Indicator
-* **Overall Rating : Shows average rating with 5-star visual and label.**
-
+* **Overall Rating :**
+    Shows average rating with 5-star visual and label.
 #### Bar Chart
 * **Count of Call IDs by Ratings:**
-     **Visualize how many users gave each star rating.**
-     **Most customers gave 3 or 4 stars.**
+    * Visualize how many users gave each star rating.
+    * Most customers gave 3 or 4 stars.
 
 * **Satisfaction Rating by Topics:**
-     **Top-rated: Admin Support (3.43)**
-     **Lowest-rated: Contract Related (3.38)**
+    * Top-rated: Admin Support (3.43)
+    * Lowest-rated: Contract Related (3.38)
 
  #### Bar Chart
 * **Count of Call IDs by Ratings:**
@@ -94,19 +97,19 @@ The data used in this dashboard is a simulated call log dataset containing the f
 
 
 ## 📈 Visuals
-- **Donut Chart**
--Answered Rate :
- Visualizes the percentage of calls answered vs not answered.
- Highlights agent responsiveness.
--Resolved Rate :
- Shows the split between resolved and unresolved calls. 
- Measures agent issue resolution effectiveness.
+#### Donut Chart
+- **Answered Rate :**
+     * Visualizes the percentage of calls answered vs not answered.
+     * Highlights agent responsiveness.
+-**Resolved Rate :**
+     * Shows the split between resolved and unresolved calls. 
+     * Measures agent issue resolution effectiveness.
 
 
-- **Line & Area Chart**
-– Total Calls by Date :
- Displays daily call volume trends for the selected agent.
- Helps identify workload peaks and performance patterns..
+#### Line & Area Chart
+– **Total Calls by Date :**
+     * Displays daily call volume trends for the selected agent.
+     * Helps identify workload peaks and performance patterns..
 
 ![Agents Performance](https://github.com/user-attachments/assets/5f49eb82-e555-4d7b-a8b5-6c4fdecae396)
 
