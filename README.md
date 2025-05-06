@@ -135,8 +135,6 @@ The data used in this dashboard is a simulated call log dataset containing the f
 
 ## 👨‍💻 Author
 
-**Karthik G K**  
-_Data Analyst 
-📧 [Email Me](#)  
-🔗 [LinkedIn](#) 
-
+**Karthik G K**  Data Analyst 
+📧  <a href="">Email Me</a>
+🔗  <a href="https://www.linkedin.com/in/karthikgk-id333"></a>
