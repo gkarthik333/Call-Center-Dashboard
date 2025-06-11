@@ -39,12 +39,8 @@ In the initial data preparation phase, we performed the following tasks:
 ![Modelling](https://github.com/user-attachments/assets/43b6160c-c6be-4aac-aaa8-45cfa3e434f3)
 
 
-# 💠 Project dashboard includes:-
-➵ Page 1: Calls Analysis
+# 💠 Project dashboard: 
 
-➵ Page 2: Agent Analysis
-
-# 💠 Insights & Findings
 <br><br>
 
 ![Home](https://github.com/user-attachments/assets/7aae481b-41d2-4be1-86b1-16648c2f3076)
