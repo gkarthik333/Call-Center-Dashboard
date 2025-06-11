@@ -40,7 +40,8 @@ In the initial data preparation phase, we performed the following tasks:
 
 
 # 💠 Project dashboard: 
-
+<br><br>
+🏠 Home Page
 <br><br>
 
 ![Home](https://github.com/user-attachments/assets/7aae481b-41d2-4be1-86b1-16648c2f3076)
@@ -48,12 +49,14 @@ In the initial data preparation phase, we performed the following tasks:
 This homepage is professionally designed and branded with the PwC logo, is titled "Call Centre Analysis Dashboard," indicating its purpose is to provide insights into call center operations. It highlights three core analytical areas: "Calls Analysis," "Clients Satisfaction," and "Agents Performance." The design suggests a professional and user-friendly interface aimed at managers seeking quick performance overviews.
 
 <br><br>
+# 📞 Call Analysis
 
+<br><br>
 ![Call Analysis](https://github.com/user-attachments/assets/f4145828-0746-458f-9ce0-15a6b5cf4d2b)
 <br><br>
 
 
-# 📞 Call Analysis
+
 
 ## 🎯 KPIs
 
@@ -96,19 +99,20 @@ Calls related to Streaming and Payment Issues had the highest abandonment rates,
 Technical Support calls were handled relatively well, indicating better resolution processes in that area.
 
 <br><br>
+# 🌟 Clients Satisfaction
+<br><br>
 
 ![Clients Satisfaction](https://github.com/user-attachments/assets/3a0c5a54-a4f6-4f7d-a8da-828797287ad2)
 
 <br><br>
 
-# 🌟 Clients Satisfaction
 
 ## 🎯 KPIs
 
 - **Client Satisfaction Rate**: 68.07%
 - it means that out of 4,054 customer interactions, approximately two-thirds resulted in a positive experience. While this indicates a majority of satisfied customers, it also highlights that nearly one-third were not fully pleased. This metric is crucial for identifying areas needing improvement to enhance overall customer experience and loyalty.
 
-  
+
 - **Overall Rating**: ⭐⭐⭐⭐☆ (3.4 / 5) – Neutral
 -it suggests that while there are positive aspects, there's significant room for improvement. This rating indicates a moderate level of satisfaction that doesn't strongly lean towards either positive or negative, implying an opportunity to convert indifferent customers into advocates.
 
@@ -130,10 +134,11 @@ Technical Support calls were handled relatively well, indicating better resoluti
 * Top-rated: Admin Support received the highest satisfaction rating (3.43).
 * Lowest-rated: Contract-Related topics had the lowest satisfaction rating (3.38), indicating a potential area for process or agent training improvement.
 
+# 👨‍💼 Agents Performance 
+<br><br>
+
 ![Agents performance](https://github.com/user-attachments/assets/f28b9b05-547c-46f4-9573-7e476b50676c)
 
-
-# 👨‍💼 Agents Performance 
 
 ## 🎯 KPIs
 
